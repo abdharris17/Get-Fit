@@ -24,3 +24,11 @@ Given the rise of home workouts, trainers are no longer present to constantly co
 * Download NRP Scanner on your smartphone as an alternative connection method for BLE
 * Connect Web Application to BLE 
 * Assemble hardware
+
+## CAD Models
+https://drive.google.com/drive/folders/1WHiyoJBaLKviB3V9Of6oyJxNAZHPvC6g?usp=share_link
+
+## Authors
+* [Abdullah Harris](https://github.com/abdharris17)
+* [Anay Samarth](https://github.com/jamjam2103)
+* [Ashish Gattu](https://github.com/A-G07)
